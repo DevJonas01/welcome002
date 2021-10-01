@@ -1,0 +1,18 @@
+{
+  "name": "welcome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas / Strg C",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "canvas": "^2.8.0",
+    "canvas-senpai": "^2.0.3",
+    "discord.js": "^12.0.0",
+    "zerotwo-welcomer": "^1.5.8"
+  }
+}
